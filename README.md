@@ -1,27 +1,27 @@
 # Boston-Housing-Dataset
 
 ## Overview
-This is a simple Regression problem to predict the MEDV of the houses in Boston. The trained model takes few criteria like CRIM, ZN, INDUS, CHAS, NOX etc as input and determines MEDV.
+This is a simple Regression problem to predict the Median Value of the houses in Boston. The trained model takes few criteria like CRIM, ZN, INDUS, CHAS, NOX etc as input and determines MEDV.
 
 ## Technical Aspect
 
 ### a) Input
-1. CRIM
-2. ZN
-3. INDUS
-4. CHAS
-5. NOX
-6. RM
-7. AGE
-8. DIS
-9. RAD
-10. TAX
-11. PTRATIO
-12. B
-13. LSTAT
+1. CRIM - Crime rate per capita
+2. ZN - proportion of residential land zoned
+3. INDUS - proportion of non-retail business acres
+4. CHAS - Charles River dummy variable
+5. NOX - nitric oxides concentration
+6. RM - average number of rooms
+7. AGE - proportion of owner-occupied units built prior to 1940
+8. DIS - weighted distances to five Boston employment centres
+9. RAD - index of accessibility to radial highways
+10. TAX - full-value property-tax rate
+11. PTRATIO - pupil-teacher ratio
+12. B - proportion of blacks
+13. LSTAT - % lower status of the population
 
 ### b) Output
-1. MEDV 
+1. MEDV - Median value of owner-occupied homes
 
 ### c) Data Analysis
 1. Missing values
